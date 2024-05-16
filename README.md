@@ -23,3 +23,11 @@ else :
 
 # ESERCIZIO 2
 
+```
+# Esercizio: Tabellina di un numero
+numero = int(input("Inserisci un numero: "))
+i = 1
+while i <= 10:
+    print(f"{numero} x {i} = {numero * i}")
+    i += 1
+```
