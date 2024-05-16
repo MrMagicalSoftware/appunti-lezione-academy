@@ -20,3 +20,6 @@ else :
 
 ```
 
+
+# ESERCIZIO 2
+
